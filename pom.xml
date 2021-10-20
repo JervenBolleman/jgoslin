@@ -493,6 +493,7 @@
         <module>acceptance-tests</module>
         <module>integration-tests</module>
         <module>cli</module>
+        <module>sparql</module>
     </modules>
     <name>jgoslin</name>
 </project>
